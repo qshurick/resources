@@ -1,0 +1,23 @@
+{
+  "name": "qshurick:resources"
+  "version": "0.0.1",
+  "description": "Express 4 extention to creation a REST API",
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "dependencies": {
+    "express": "4.x",
+    "log4js": "0.x"
+  },
+  "devDependencies": {
+    "mocha": "1.21.x",
+    "should": "4.0.x",
+    "supertest": "0.13.x",
+    "jscoverage": "0.5.x"
+  },
+  "scripts": {
+    "test": "mocha ./tests/"
+  }
+}
