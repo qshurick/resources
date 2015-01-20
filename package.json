@@ -2,6 +2,8 @@
   "name": "@qshurick/resources",
   "version": "0.0.1",
   "description": "Express 4 extention to creation a REST API",
+  "author": "Alexander Malyk <alex@alexandermalyk.com>",
+  "repository": "qshurick/resources",
   "keywords": [
     "node",
     "rest",
@@ -17,7 +19,11 @@
     "supertest": "0.13.x",
     "jscoverage": "0.5.x"
   },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
   "scripts": {
-    "test": "mocha ./tests/"
+    "test": "mocha ./tests/*"
   }
 }
