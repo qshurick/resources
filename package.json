@@ -1,9 +1,8 @@
 {
-  "name": "@qshurick/resources",
+  "name": "qshurick-resources",
   "version": "0.0.1",
   "description": "Express 4 extention to creation a REST API",
   "author": "Alexander Malyk <alex@alexandermalyk.com>",
-  "repository": "qshurick/resources",
   "keywords": [
     "node",
     "rest",
